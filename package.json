@@ -1,0 +1,22 @@
+{
+  "name": "gulp-undef-task-to-default",
+  "version": "1.0.0",
+  "description": "gulp plugin that redirects undefined tasks to a default task.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadongguri/gulp-undef-task-to-default.git"
+  },
+  "keywords": [
+    "gulp-plugin"
+  ],
+  "author": "Dongjin Na <dongjinna@gmail.com> (https://nadongguri.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nadongguri/gulp-undef-task-to-default/issues"
+  },
+  "homepage": "https://github.com/nadongguri/gulp-undef-task-to-default#readme"
+}
